@@ -6,7 +6,7 @@ Some of the gang are working on a fancy website that's going to make managing me
 However, just because your name isn't on the rolls, don't be afraid to come hang out with us in [#lpmc on freenode](irc://irc.freenode.net/lpmc), or in [/r/lpmc on reddit](http://www.reddit.com/r/lpmc/)!
 
 We look forward to seeing you there!
-
+ 
 Standards and Practices
 =======================
 
